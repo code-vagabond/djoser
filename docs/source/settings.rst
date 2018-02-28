@@ -26,7 +26,7 @@ SEND_ACTIVATION_EMAIL
 
 If ``True`` user will be required to click activation link sent in email after:
 
-* creating an account via ``RegistrationView``
+* creating an account via ``UserCreateView``
 * updating his email via ``UserView``
 
 **Default**: ``False``
